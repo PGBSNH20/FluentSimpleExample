@@ -1,0 +1,16 @@
+C:\GitHub\FluentSimpleExample\obj\Debug\net5.0\FluentSimpleExample.csprojAssemblyReference.cache
+C:\GitHub\FluentSimpleExample\obj\Debug\net5.0\FluentSimpleExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\FluentSimpleExample\obj\Debug\net5.0\FluentSimpleExample.AssemblyInfoInputs.cache
+C:\GitHub\FluentSimpleExample\obj\Debug\net5.0\FluentSimpleExample.AssemblyInfo.cs
+C:\GitHub\FluentSimpleExample\obj\Debug\net5.0\FluentSimpleExample.csproj.CoreCompileInputs.cache
+C:\GitHub\FluentSimpleExample\bin\Debug\net5.0\FluentSimpleExample.exe
+C:\GitHub\FluentSimpleExample\bin\Debug\net5.0\FluentSimpleExample.deps.json
+C:\GitHub\FluentSimpleExample\bin\Debug\net5.0\FluentSimpleExample.runtimeconfig.json
+C:\GitHub\FluentSimpleExample\bin\Debug\net5.0\FluentSimpleExample.runtimeconfig.dev.json
+C:\GitHub\FluentSimpleExample\bin\Debug\net5.0\FluentSimpleExample.dll
+C:\GitHub\FluentSimpleExample\bin\Debug\net5.0\ref\FluentSimpleExample.dll
+C:\GitHub\FluentSimpleExample\bin\Debug\net5.0\FluentSimpleExample.pdb
+C:\GitHub\FluentSimpleExample\obj\Debug\net5.0\FluentSimpleExample.dll
+C:\GitHub\FluentSimpleExample\obj\Debug\net5.0\ref\FluentSimpleExample.dll
+C:\GitHub\FluentSimpleExample\obj\Debug\net5.0\FluentSimpleExample.pdb
+C:\GitHub\FluentSimpleExample\obj\Debug\net5.0\FluentSimpleExample.genruntimeconfig.cache

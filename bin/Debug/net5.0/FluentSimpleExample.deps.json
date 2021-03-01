@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FluentSimpleExample/1.0.0": {
+        "runtime": {
+          "FluentSimpleExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FluentSimpleExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
